@@ -1,10 +1,10 @@
-# #TechMasters Job Board
+# HackRegina Job Board
 
-Find the best jobs worldwide from [our community](https://techmasters.chat/).
+Find the best jobs in Regina from [our community](https://hackregina.github.io/).
 
 ## Job Seekers
 
-Listed jobs are in [Github issues](https://github.com/TechnologyMasters/jobs/issues)
+Listed jobs are in [Github issues](https://github.com/HackRegina/jobs/issues)
 
 ## Employers
 
@@ -34,7 +34,7 @@ We prepared a template for you to use upon opening a new post, you can always in
 
 ### How to submit a new job post?
 
-Simply [submit a ticket GitHub issue](https://github.com/TechnologyMasters/jobs/issues/new)
+Simply [submit a ticket GitHub issue](https://github.com/HackRegina/jobs/issues/new)
 
 ### How long would a job post live?
 
