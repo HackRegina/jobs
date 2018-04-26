@@ -1,7 +1,7 @@
 <!-- 
 ==============================================================
 PLEASE REVIEW RULES BEFORE POSTING: 
-https://github.com/TechnologyMasters/jobs/blob/master/README.md#employers
+https://github.com/HackRegina/jobs/blob/master/README.md#employers
 
 Issue title format: [Company Name] - [Job Title] - [Location]
 ==============================================================
@@ -69,7 +69,7 @@ Please send an email to [email@email.com](email@email.com) with your resume, use
 ## Meta
 <!--
   These meta tickboxes automatically apply labels to your post
-  Learn more in the README https://github.com/TechnologyMasters/jobs/blob/master/README.md#label-definitions
+  Learn more in the README https://github.com/HackRegina/jobs/blob/master/README.md#label-definitions
 -->
 
 - [ ] Full Time
