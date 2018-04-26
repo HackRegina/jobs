@@ -3,10 +3,10 @@ name: Job post
 about: A generic job post
 ---
 
-<!--
+<!-- 
 
 PLEASE REVIEW RULES BEFORE POSTING:
-https://github.com/TechnologyMasters/jobs/blob/master/README.md#employers
+https://github.com/HackRegina/jobs/blob/master/README.md#employers
 
 # Issue title format: [Company Name] - [Job Title] - [Location] - [Salary] [Currency]/[Frequency]
 
@@ -79,7 +79,7 @@ Please send an email to [email@email.com](email@email.com) with your resume, use
 
 <!--
   These meta tickboxes automatically apply labels to your post
-  Learn more in the README https://github.com/TechnologyMasters/jobs/blob/master/README.md#label-definitions
+  Learn more in the README https://github.com/HackRegina/jobs/blob/master/README.md#label-definitions
 
   Note, you must fill in the checkboxes correctly in order for them to appear as checked in Markdown
 
