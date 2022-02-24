@@ -59,7 +59,7 @@ ACME Corporation is one of the most...
 
 ## How to apply
 
-Please send an email to [email@email.com](mailto:email@email.com) with your resume, use 'Node Developer' as subject
+Please send an email to [email@email.com](mailto:email@example.com) with your resume, use 'Node Developer' as subject
 
 ---
 
